@@ -1,19 +1,29 @@
 /*  your css code here. If applicable */
+body{
+	 font-family: Garamond, serif;
+	 
+}
 h1{
 	color: #2a7ae2;
+	font-size: 70px;
 }
 h2{
 	color:  #f44336;
+	font-size: 55px;
 }
 h3{
 	color: #4caf50;
+	font-size: 40px;
 }
 h4{
 	color: #ff9800;
+	font-size: 30px;
 }
 h5{
 	color: #607d8b;
+	font-size: 23px;
 }
 h6{
 	color: #ffeb3b;
+	font-size: 15px;
 }
